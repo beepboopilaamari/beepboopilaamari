@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Welcome to Kazu's Stu!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Welcome to Kazu's Stu!)
 
 ## About Me
 Hey there! 👋 I'm Kaz, a passionate software engineer with a love for Formula 1, UFC, and football. I've been immersed in the world of Python for around 8 years now, and I thrive on automation challenges. When I'm not coding, you can find me cheering for Ferrari in F1, Real Madrid and Liverpool on the football pitch, or following the latest UFC fights.
