@@ -25,3 +25,4 @@ Hey there! 👋 I'm Kaz, a passionate software engineer with a love for Formula 
 
 ## Get in Touch
 📫 Feel free to reach out to me via [email](mailto:kazu@kazu-eats.store).
+![GitHub followers](https://img.shields.io/github/followersKazuInTheStu?style=social)
