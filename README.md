@@ -9,7 +9,7 @@ Hey there! 👋 I'm Kaz, a passionate software engineer with a love for Formula 
 - 🤖 **Discord Bot Creator**: I enjoy building bots for Discord communities, adding fun and functionality to servers.
 - 🏎️ **F1 Fanatic**: I bleed red for Ferrari and root for drivers like Leclerc, Alonso, and Vettel in the fast-paced world of Formula 1.
 - 👊 **UFC Aficionado**: Alex Perreira, Charles Oliveira, Dustin Poirier, and Jon Jones are among my favorite fighters in the Octagon.
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ## Projects
 ### 1. Discord Bots
 - **Project Name**: Discord-Mass-Upload-Bot
