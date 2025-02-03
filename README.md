@@ -10,7 +10,7 @@
 - Automating mundane tasks.
 
 #### 🌱 I’m currently learning
-- C++.
+- C.
 - Web scraping.
 
 #### 💼 Skills
