@@ -24,7 +24,7 @@
 - **Project Name**: Discord-Mass-Upload-Bot
   - Description: This bot is designed to organize your files and upload them to your Discord server. It is capable of creating new channels in the specified category and uploading files from local subfolders. It also supports a configurable limit on the number of files uploaded from each folder.
   - Technologies: Python, Discord API
-  - Link: [Discord-Mass-Upload-Bot](https://github.com/KazuInTheStu/Discord-Mass-Upload-Bot)
+  - Link: [Discord-Mass-Upload-Bot](https://github.com/beepboopilaamari/Discord-Mass-Upload-Bot)
 
 ### 2. Automation Scripts
 - **Project Name**: K'Eats
@@ -45,4 +45,4 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beepboopilaamari)
 
 #### 🐍 Contributions
-![snake gif](https://github.com/yourusername/beepboopilaamari/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/beepboopilaamari/blob/output/github-contribution-grid-snake.gif)
