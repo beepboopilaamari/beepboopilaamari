@@ -36,13 +36,13 @@
 📫 Feel free to reach out to me via [email](mailto:kazu@kazu-eats.store).
 
 #### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KazuInTheStu&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beepboopilaamari&show_icons=true)
 
 #### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuInTheStu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beepboopilaamari)
 
 #### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KazuInTheStu)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=beepboopilaamari)
 
 #### 🐍 Contributions
-![snake gif](https://github.com/yourusername/KazuInTheStu/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yourusername/beepboopilaamari/blob/output/github-contribution-grid-snake.gif)
