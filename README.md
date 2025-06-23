@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Kazu's+Den!👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Ilaf's+Den!👋)
 
 #### About Me
 - 🚀 Python Developer | Automation Enthusiast
